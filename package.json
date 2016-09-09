@@ -1,5 +1,5 @@
 {
-  "name": "request-has-param",
+  "name": "request-has-body",
   "version": "1.0.0",
   "description": "Check request has params or body easily as middleware.",
   "main": "index.js",
