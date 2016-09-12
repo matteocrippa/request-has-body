@@ -5,7 +5,7 @@ Easily check for body directly using a middleware.
 # Install
 
 ```shell
-$ npm install --save git+ssh://git@github.com/matteocrippa/request-has-body.git
+$ npm install --save git+https://git@github.com/matteocrippa/request-has-body.git
 ```
 
 # Usage
